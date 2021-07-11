@@ -1,6 +1,6 @@
 ## ODE-Integration-Methods
 
-This repository contains some test work implementing various integration schemes in python.  Problem.py can be run demonstrating comparing the accuracy of each model.
+This repository contains some test work implementing various integration schemes in python.  Also included is Problem.py which runs the various solvers on a few selected ODE systems.
 
 Integration schemes:
 - Explicit euler
