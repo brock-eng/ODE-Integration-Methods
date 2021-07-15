@@ -12,3 +12,8 @@ Problem.py test systems:
 - Transport problem
 - Lorenz weather system
 - Orbital mechanics
+
+### Code Output
+<img src="orbit.png">
+<img src="transport.png">
+<img src="lorenz.png">
